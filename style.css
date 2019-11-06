@@ -1,0 +1,29 @@
+.nameItem {
+    font-size: 20px;
+}
+
+.dateItem {
+    font-size: 15px;
+    color: #202020;
+}
+
+.title {
+    padding-bottom: 25px;
+}
+
+.descriptionItem {
+    width: 600px;
+    padding: 35px 15px 15px 25px;
+    font-size: 16px;
+}
+
+
+.imgItem {
+    margin-left: 50px;
+    padding-bottom: 20px;
+}
+
+.imgItem {
+    height: 350px;
+    width: 250px;
+}
